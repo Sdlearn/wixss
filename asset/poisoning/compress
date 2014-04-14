@@ -1,0 +1,5 @@
+#!/bin/sh
+
+java -jar ../../compiler.jar --compilation_level=ADVANCED_OPTIMIZATIONS --js=preload.js --js_output_file=preload.min.js
+
+java -jar ../../compiler.jar --compilation_level=ADVANCED_OPTIMIZATIONS --js=stub.js --js_output_file=stub.min.js

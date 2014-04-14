@@ -1,0 +1,25 @@
+{
+  "name": "wixss",
+  "version": "1.0.0",
+  "description": "wireless xss",
+  "dependencies": {
+    "iconv-lite": "~0.2.11",
+    "colors": "~0.6.0-2",
+    "commander": "~2.1.0",
+    "mime": "~1.2.11",
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EtherDream/wixss.git"
+  },
+  "keywords": [
+  	"wifi",
+    "hijack",
+    "xss",
+    "MITM"
+  ],
+  "author": "EtherDream",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
